@@ -4,25 +4,25 @@
 
 ⭐️ [编程入门到进大厂，你需要这套学习架构](入门必看-学习路线/编程入门到进大厂，你需要这套学习架构.md)
 
-[⭐️ 从大学到秋招，我如何拿下腾讯offer](/自学之路/大学经历/从大学到秋招，我如何拿下腾讯offer.md)（mydjin的求职之路）
+[⭐️ 从大学到秋招，我如何拿下腾讯offer](/自学之路/大学经历/从大学到秋招，我如何拿下腾讯offer.md)（WBGaps的求职之路）
 
-⭐️ [前端学习路线](../学习路线/前端学习路线%20by%20程序员mydjin.md)
+⭐️ [前端学习路线](../学习路线/前端学习路线%20by%20程序员WBGaps.md)
 
-⭐️ [Python学习路线](../学习路线/Python学习路线%20by%20程序员mydjin.md)
+⭐️ [Python学习路线](../学习路线/Python学习路线%20by%20程序员WBGaps.md)
 
-⭐️ [Java学习路线](../学习路线/Java学习路线%20by%20程序员mydjin.md)
+⭐️ [Java学习路线](../学习路线/Java学习路线%20by%20程序员WBGaps.md)
 
-⭐️ [Linux学习路线](../学习路线/Linux学习路线%20by%20程序员mydjin.md)
+⭐️ [Linux学习路线](../学习路线/Linux学习路线%20by%20程序员WBGaps.md)
 
-⭐️ [C++学习路线](../学习路线/C++学习路线%20by%20程序员mydjin.md)
+⭐️ [C++学习路线](../学习路线/C++学习路线%20by%20程序员WBGaps.md)
 
-⭐️ [Git&GitHub学习路线](../学习路线/Git&GitHub学习路线%20by%20程序员mydjin.md)
+⭐️ [Git&GitHub学习路线](../学习路线/Git&GitHub学习路线%20by%20程序员WBGaps.md)
 
-⭐️ [SQL免费实战自学网站](../学习路线/SQL免费实战自学网站%20by%20程序员mydjin.md)
+⭐️ [SQL免费实战自学网站](../学习路线/SQL免费实战自学网站%20by%20程序员WBGaps.md)
 
-⭐️ [设计模式学习路线](../学习路线/设计模式学习路线%20by%20程序员mydjin.md)
+⭐️ [设计模式学习路线](../学习路线/设计模式学习路线%20by%20程序员WBGaps.md)
 
-⭐️ [数据结构和算法学习路线](../学习路线/数据结构和算法学习路线%20by%20程序员mydjin.md)
+⭐️ [数据结构和算法学习路线](../学习路线/数据结构和算法学习路线%20by%20程序员WBGaps.md)
 
 [如何学习 GitHub？](入门必看-学习路线/如何学习GitHub？.md)
 
@@ -116,7 +116,7 @@
 
 ## 开发经验
 
-通过项目提升开发能力：[项目实战 - mydjin原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
+通过项目提升开发能力：[项目实战 - WBGaps原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
 
 ⭐️ [主流前后端项目部署方式](开发经验/主流前后端项目部署方式.md)
 
@@ -252,7 +252,7 @@
 
 ### 面试题
 
-⭐️ [求职 - mydjin免费面试题整理](https://yuyuanweb.feishu.cn/wiki/KskNwNAj1iM6Kfk5p8zcQrK2nAh)
+⭐️ [求职 - WBGaps免费面试题整理](https://yuyuanweb.feishu.cn/wiki/KskNwNAj1iM6Kfk5p8zcQrK2nAh)
 
 ⭐️ [送老弟去大厂面试，后端考点分享](求职经验/面试题/送老弟去大厂面试，后端考点分享.md)
 
@@ -462,7 +462,7 @@
 
 ### 保姆级实战项目教程
 
-⭐️ [项目实战 - mydjin原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
+⭐️ [项目实战 - WBGaps原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
 
 [实战项目 - OJ 判题系统](项目教程/保姆级实战项目教程/实战项目%20-%20OJ%20判题系统.md)
 

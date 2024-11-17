@@ -1,10 +1,10 @@
 # 一次面向 UP 主的团建
 
-> 本文作者：[程序员mydjin](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员WBGaps](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
-大家好，我是mydjin。
+大家好，我是WBGaps。
 
 正如标题，这个周末，我有幸参加了一次面向 UP 主的团建，经历了很多第一次。
 

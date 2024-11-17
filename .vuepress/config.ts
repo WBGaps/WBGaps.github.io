@@ -4,12 +4,12 @@ import sidebar from "./sidebar";
 import footer from "./footer";
 import extraSideBar from "./extraSideBar";
 
-const author = "mydjin";
-const domain = "https://mydjin.github.io";
+const author = "WBGaps";
+const domain = "https://WBGaps.mydjin.top";
 const tags = ["程序员", "编程", "计算机"];
 
 export default defineConfig({
-  title: "mydjin的编程宝典",
+  title: "WBGaps",
   // description: "贴心的编程学习路线，全面的知识百科",
   description: "feedId:76473931194706944+userId:63112175590810624",
   head: [
@@ -21,7 +21,7 @@ export default defineConfig({
       {
         name: "keywords",
         content:
-          "知识扫盲, 编程学习, Java, 编程导航, 前端, 开发, 编程分享, 项目, IT, 行业认知, 求职, 面经",
+          "知识扫盲, 编程学习, Java, C++, Golang, 前端, 开发, 编程分享, 项目, IT, 行业认知, 求职, 面经",
       },
     ],
     // 百度统计
@@ -124,8 +124,8 @@ export default defineConfig({
       platform: 'github-v4',
 
       // 其他的 Vssue 配置
-      owner: 'mydjin',
-      repo: 'mydjin.github.io',
+      owner: 'WBGaps',
+      repo: 'WBGaps.mydjin.top',
       clientId: 'Ov23liwcaeG8ZLMOLThH',
       clientSecret: '81829b2b2315cfc7981b21d0e09c72ed42a3159c',
       autoCreateIssue: true,
@@ -151,7 +151,7 @@ export default defineConfig({
     lastUpdated: "最近更新",
 
     // GitHub 仓库位置
-    repo: "mydjin/mydjin.github.io",
+    repo: "WBGaps/WBGaps.mydjin.top",
     docsBranch: "master",
 
     // 编辑链接

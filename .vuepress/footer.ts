@@ -4,7 +4,7 @@
 export default {
   friendLinks: [
     {
-      label: "站长 - 程序员mydjin",
+      label: "站长 - 程序员WBGaps",
       // icon: "/icon/user.svg",
       href: "https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah",
     },

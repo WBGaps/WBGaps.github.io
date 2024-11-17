@@ -1,12 +1,12 @@
 # 使用 ES 优化网站搜索体验
 
-> 本文作者：[程序员mydjin](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员WBGaps](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
 > 使用 ES + 云开发实战优化网站搜索
 
-大家好，我是mydjin，今天搞一场技术实战，带大家优化网站搜索的灵活性。
+大家好，我是WBGaps，今天搞一场技术实战，带大家优化网站搜索的灵活性。
 
 ## ES + 云开发搜索优化实战
 
@@ -14,7 +14,7 @@
 
 ![](https://pic.yupi.icu/5563/202311071431812.png)
 
-> mydjin - 网站搜索优化
+> WBGaps - 网站搜索优化
 
 ### 背景
 
@@ -53,7 +53,7 @@ var idx = lunr(function () {
   // 内容
   this.add({
     "title": "yupi",
-    "body": "wx搜程序员mydjin，阅读我的原创文章",
+    "body": "wx搜程序员WBGaps，阅读我的原创文章",
     "id": "1"
   })
 })
@@ -62,7 +62,7 @@ var idx = lunr(function () {
 然后搜索就可以了：
 
 ```
-idx.search("mydjin")
+idx.search("WBGaps")
 ```
 
 纯前端全文搜索的好处是无需后端、简单方便，可以节省服务器的压力；无需连网，也没有额外的网络开销，检索更快速。
@@ -340,6 +340,6 @@ if (name) {
 ------
 
 
-以上就是本期分享，我是mydjin，**点赞 + 在看** 还是要求一下的，祝大家都能心想事成、发大财、行大运。
+以上就是本期分享，我是WBGaps，**点赞 + 在看** 还是要求一下的，祝大家都能心想事成、发大财、行大运。
 
 ![](https://pic.yupi.icu/5563/202311071431308.png)

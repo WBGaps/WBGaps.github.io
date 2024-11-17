@@ -1,10 +1,10 @@
 # 越自信，Bug 越多
 
-> 本文作者：[程序员mydjin](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员WBGaps](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
-大家好，我是mydjin。
+大家好，我是WBGaps。
 
 标题是说给自己听的，最近，又因为我的自信，搞出了一个影响项目正常运行的 Bug。
 
